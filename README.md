@@ -78,7 +78,7 @@ Notes:
 **Aaryan Patel**, 3rd-year Economics (Data Analytics) student at the University of Toronto, with minors in Computer Science and Statistics.
 
 - Email: aaryanp35@gmail.com
-- LinkedIn: https://www.linkedin.com/in/aaryan-p-5a4223331/
+- LinkedIn: https://www.linkedin.com/in/aaryanp35
 - Portfolio: https://aaryanp35.vercel.app
 
 Built with a CSC111 teammate. Course scaffolding and file headers are copyright the CSC111 Teaching Team, University of Toronto.
