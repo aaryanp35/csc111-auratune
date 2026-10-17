@@ -79,6 +79,6 @@ Notes:
 
 - Email: aaryanp35@gmail.com
 - LinkedIn: https://www.linkedin.com/in/aaryan-p-5a4223331/
-- Portfolio: https://aaryanp35.github.io/my-portfolio/
+- Portfolio: https://aaryanp35.vercel.app
 
 Built with a CSC111 teammate. Course scaffolding and file headers are copyright the CSC111 Teaching Team, University of Toronto.
