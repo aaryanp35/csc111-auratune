@@ -129,3 +129,6 @@ cython_debug/
 .prettierrc
 
 .DS_Store
+# IDE and editor
+.idea/
+.vscode/
